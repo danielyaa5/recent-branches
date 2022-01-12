@@ -16,4 +16,4 @@ gbl="recent-branches"
 recent-branches
 ```
 
-![image](https://user-images.githubusercontent.com/6629098/149229829-1a888ce5-87cb-41ba-8df4-0d9075b9a5c0.png)
+![image](https://i.ibb.co/gR4HKwc/Screen-Shot-2022-01-12-at-2-24-03-PM.png)

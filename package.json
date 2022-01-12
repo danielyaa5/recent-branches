@@ -1,6 +1,6 @@
 {
   "name": "recent-branches",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Use cli to interactively switch to a recently checked out branch",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,14 @@
   },
   "author": "danielyaa5",
   "license": "ISC",
+  "type": "module",
   "bin": {
     "recent-branches": "bin/index.js"
   },
   "dependencies": {
+    "chalk": "5.0.0",
     "cli-select": "1.1.2"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danielyaa5/recent-branches.git"
