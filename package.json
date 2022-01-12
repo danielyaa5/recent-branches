@@ -1,0 +1,17 @@
+{
+  "name": "recent-branches",
+  "version": "0.0.1",
+  "description": "Use cli to interactively switch to a recently checked out branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danielyaa5",
+  "license": "ISC",
+  "bin": {
+    "recent-branches": "./bin/index.js"
+  },
+  "dependencies": {
+    "cli-select": "1.1.2"
+  }
+}
