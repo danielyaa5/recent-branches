@@ -1,5 +1,5 @@
 import {spawnSync, execSync} from 'child_process'
-import cliSelect from 'cli-select'
+import cliSelect from 'cli-select-2'
 import chalk from 'chalk';
 
 const recent_branches_cmd = `

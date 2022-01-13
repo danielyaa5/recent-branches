@@ -1,4 +1,4 @@
-Interactively select a git branch to switch to, branches are sorted by recently checked out
+Interactively select a git branch to switch to, branches are sorted by recently checked out. You can use up and down keys to navigate up and down, or k and j (VIM style). Press escape or ctrl-c to cancel.
 
 ### Installation
 ```
