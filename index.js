@@ -15,7 +15,8 @@ const runCmd = (cmd) => {
     }
 
     if (result.status !== 0) {
-        throw Error(`Command FAILED with status ${result.status}, no stderr: ${cmd}`)
+        console.error(`Command FAILED with status ${result.status}, no stderr: ${cmd}`)
+        process.exit(1)
     }
 
     return result.stdout
