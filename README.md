@@ -7,7 +7,7 @@ npm -i g recent-branches
 
 Add an alias
 ```
-gbl="recent-branches"
+rbs="recent-branches"
 ```
 
 ### Usage
